@@ -1,0 +1,10 @@
+<Person>
+    <Name>
+        <FirstName>John</FirstName>
+        <LastName>Doe</LastName>
+    </Name>
+    <PhoneNumbers>
+        <PhoneNumber type="work">212-123-4567</PhoneNumber>
+        <PhoneNumber type="home">212-123-4568</PhoneNumber>
+    </PhoneNumbers>
+</Person>
